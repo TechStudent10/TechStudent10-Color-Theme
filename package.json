@@ -1,0 +1,22 @@
+{
+    "name": "techstudent10-color-theme",
+    "displayName": "TechStudent10 Color Theme",
+    "description": "The offical TechStudent10 VSCode Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TechStudent10",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TechStudent10-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "TechStudent10"
+}
