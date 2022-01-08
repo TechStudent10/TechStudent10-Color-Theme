@@ -1,6 +1,8 @@
 # TechStudent10 Color Theme
 An ugly color theme based on my channel color.
 
+[Install the extension/theme](https://marketplace.visualstudio.com/items?itemName=TechStudent10.techstudent10-color-theme)
+
 ## Images
 
 ![image1](https://user-images.githubusercontent.com/76978184/148658675-ea532536-324b-4405-90ef-88dbd48b1bfb.jpg)

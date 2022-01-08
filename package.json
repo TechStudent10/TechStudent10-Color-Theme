@@ -2,7 +2,7 @@
     "name": "techstudent10-color-theme",
     "displayName": "TechStudent10 Color Theme",
     "description": "The offical TechStudent10 VSCode Theme",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.63.0"
     },
