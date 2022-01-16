@@ -2,7 +2,7 @@
     "name": "techstudent10-color-theme",
     "displayName": "TechStudent10 Color Theme",
     "description": "The offical TechStudent10 VSCode Theme",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -22,6 +22,6 @@
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "git://github.com/TechStudent10/TechStudent10-Color-Theme"
+        "url": "git://github.com/TechStudent11/TechStudent10-Color-Theme"
     }
 }
